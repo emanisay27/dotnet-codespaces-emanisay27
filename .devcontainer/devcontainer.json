@@ -1,5 +1,5 @@
 {
-    "name": ".NET in Codespaces",
+    "name": ".NET@emmanuel_burton_sarmiento in Codespaces",
     "image": "mcr.microsoft.com/dotnet/sdk:8.0",
     "features": {
         "ghcr.io/devcontainers/features/docker-in-docker:2": {},
