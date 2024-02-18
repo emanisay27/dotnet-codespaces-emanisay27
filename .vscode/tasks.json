@@ -72,6 +72,6 @@
                 "${workspaceFolder}/SampleApp/BackEnd/BackEnd.csproj"
             ],
             "problemMatcher": "$msCompile"
-        }
+        }Emmanuel Burton Sarmiento
     ]
 }
