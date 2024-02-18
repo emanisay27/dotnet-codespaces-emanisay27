@@ -2,9 +2,9 @@
     "version": "0.2.0",
     "compounds": [
         {
-            "name": "Run All",
+            "name": " Emmanuel Burton Sarmiento Run All",
             "presentation": {
-				"group": "maingroup",
+				"individual": "main Emmanuel Burton Sarmiento",
 				"order": 1
 			},
             "configurations": [
@@ -57,7 +57,7 @@
             }
         },
         {
-            "name": ".NET Core Attach",
+            "name": ".NET Emmanuel Burton Sarmiento Core Attach",
             "type": "coreclr",
             "request": "attach"
         }
