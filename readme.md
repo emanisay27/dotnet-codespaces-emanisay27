@@ -1,4 +1,4 @@
-# GitHub Codespaces ♥️ .NET 8
+# Emanisay Codespaces ♥️ .NET 8
 
 Want to try out the latest performance improvements coming with .NET 8 for web development? 
 
